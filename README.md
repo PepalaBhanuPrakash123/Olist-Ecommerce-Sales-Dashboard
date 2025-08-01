@@ -59,8 +59,8 @@ All **data cleaning steps and transformations** can be reviewed **directly in th
 I am a **fresher Data Analyst** passionate about **data storytelling, dashboarding, and business insights**.  
 Excited to **connect with professionals** and explore **entry-level Data Analyst roles**!  
 
-**Portfolio:** [YourPortfolio.com](https://bhanu-prakash-protfolio.vercel.app/)  
-**LinkedIn:** [YourLinkedIn](https://www.linkedin.com/in/pepala-bhanu-prakash-2002m09d14/)  
+**Portfolio:** [Portfolio.com](https://bhanu-prakash-protfolio.vercel.app/)  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pepala-bhanu-prakash-2002m09d14/)  
 
 ---
 
